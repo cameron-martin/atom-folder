@@ -1,0 +1,30 @@
+"*":
+  "atom-material-ui":
+    fonts: {}
+    tabs: {}
+    treeView:
+      compactList: true
+    ui:
+      panelContrast: true
+      panelShadows: true
+  core:
+    disabledPackages: [
+      "ide-flow"
+    ]
+    themes: [
+      "atom-material-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    fontSize: 15
+    invisibles: {}
+    showInvisibles: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "d3bef822-24dc-42cc-85cc-5808283f9d4a"
+  "ide-flow":
+    flowPath: "C:\\Users\\camer\\flow.cmd"
+  linter:
+    errorPanelHeight: 117
+  welcome:
+    showOnStartup: false
